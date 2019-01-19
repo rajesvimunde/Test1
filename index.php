@@ -16,7 +16,7 @@
    <button class="btn btn-success" type="button"  style="float: right; margin-top: -20px; margin-right: 10px;">
 
     <a href="login.php" style="text-decoration: none; color:white;">Admin login</a></button>
-   <h1>Welcome to student manegment of system</h1>
+   <h1>Hi, Welcome to student manegment of system</h1>
  </div>
 
 
